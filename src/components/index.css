@@ -1,0 +1,118 @@
+body{
+    background-image: url('https://wallpaperaccess.com/full/1489353.jpg') !important;
+
+}
+.form-group1{
+    opacity: 0.8;
+}
+.mr{
+    margin-left: 130px;
+}
+#m{
+    width: 800px;
+    margin-left: 130px;
+    color: darkblue;
+    font-size: 20px;
+}
+#mw{
+    color: darkblue;
+    font-size: 20px;
+}
+.card-body1{
+    margin-top: 0px;
+    opacity: 0.4;
+    
+}
+.crud{
+    color: black !important;
+    font-size: 20px;
+    margin-top: 20px;
+    opacity: 0.4;
+}
+.h6{
+    font-size: 20px;
+    margin-left: 20px;
+    color: skyblue;
+}
+.p{
+    font-size: 20px;
+    margin-left: 20px;
+    opacity: 0.8;
+    color: skyblue;
+}
+
+.card1{
+    color: black;
+    opacity: 0.8 !important;
+}
+.card-header{
+    color: black;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    opacity: 0.4;
+    
+}
+
+
+.name{
+    color: black !important;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+.addtodo{
+    margin-left: 108px;
+}
+.btn{
+    padding:2px;
+    width:120px;
+    margin-left: 20px;
+}
+.d{
+    background-color:#936c6c !important;
+    color: black !important;
+    border-radius: 12px !important;
+    opacity: 0.8;
+
+}
+.d:hover{
+    font-size: 20px;
+    color:skyblue !important;
+}
+
+.add{
+    background-color: aqua !important;
+    margin-left: 430px !important;
+    border-radius: 12px !important;
+    width: 130px;
+    padding: 1px;
+    margin-bottom: 50px;
+    opacity: 0.8;
+    
+}
+.add:hover{
+    font-size: 20px;
+}
+.final{
+    color: skyblue;
+    font-size: 20px;
+
+}
+.form-group{
+    padding: 2px;
+    width: 800px;
+    margin-left: 130px;
+}
+.hr{
+    background-color: skyblue !important;
+}
+.list{
+    background-color: blue !important;
+}
+.card2{
+    background-color: grey;
+    
+}
+
+
+
